@@ -1,5 +1,3 @@
-Berikut adalah penjelasan lengkap mengenai eksperimen yang telah kita bahas, disusun dalam format README untuk GitHub.
-
 ---
 
 # Eksperimen: Alokasi Memori pada Segmen Data dan Text
