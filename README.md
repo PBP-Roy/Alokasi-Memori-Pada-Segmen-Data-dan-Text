@@ -1,0 +1,1 @@
+# Eksperimen--Alokasi-Memori-Pada-Segmen-Data-dan-Text
